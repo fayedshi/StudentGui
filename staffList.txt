@@ -1,0 +1,7 @@
+E011,John Bobson,90K,Manager
+E012,Mark Leigh,50K,Admin
+E013,Mark Allen,($30 X number of hours for each course),instructor
+E014,Marat Safin,($60 X number of hours for each course),Instructor
+E02,Ronnie o'sullivan,50K,Admin
+E023,John Higgins,($30 X number of hours for each course),instructor
+E039,Joe Trump,56K,Admin
